@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hello! I'm Lisa. 
 ---
 
-My name is Lisa. I have the following qualities:
+Hello! I'm Lisa. 
 
 
 ### Photography
